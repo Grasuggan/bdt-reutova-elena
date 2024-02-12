@@ -1,0 +1,65 @@
+body{
+    background-color: #E7E7E7;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color: #6E6C78;
+}
+h1,h2,h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3B3B3B;
+    
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 1.25rem;
+}
+h2{
+    font-size: 2.5rem;
+}
+h3{
+    font-size: 2.25rem;
+}
+.logo p{
+    color: #F4C82B;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+.logo img{
+    width: 20px;
+}
+img{
+    width: 100%;
+}
+.btn{
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 0;
+}
+.btn:hover{
+    color: #ffffff;
+}
+.btn-red{
+    background-color: rgb(223, 57, 99);
+}
+.btn-red:hover{
+    background-color: rgba(223, 57, 99, .8);
+}
+.btn-purple{
+    background-color: rgb(139, 122, 166);
+}
+.btn-purple:hover{
+    background-color: rgba(139, 122, 166, .8);
+}
+.btn-green{
+    background-color: rgb(25, 185, 128);
+}
+.btn-green:hover{
+    background-color: rgba(25, 185, 128, .8);
+}
+.btn-gray{
+    background-color: rgb(110, 108, 120);
+}
+.btn-gray:hover{
+    background-color: rgba(110, 108, 120, .8);
+}
